@@ -20,7 +20,7 @@ class Menu extends Component {
                 <Navbar dark color="primary" >
                     <Nav>
                     <img src={logo} alt="logo" width="40px" height="40px"/>
-                        <NavbarBrand> &nbsp; <b>ISP HackerEarth</b>
+                        <NavbarBrand> &nbsp; <b>ISP</b>
                         &nbsp; &nbsp; <i>-searching ISP made easy!</i></NavbarBrand>
                     </Nav>
                     <Button> Total ISP: {}   |  API Hits: {} </Button>
